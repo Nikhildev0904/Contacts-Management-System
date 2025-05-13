@@ -39,7 +39,7 @@ This application follows a multi-tenant architecture where:
 
 ```
 contacts-management-system/
-├── src/main/java/com/cognitree/internship/cms/
+├── src/main/java/com/nikhildev/projects/cms/
 │   ├── config/          # Configuration classes (Security, MongoDB, Tenant)
 │   ├── controllers/     # REST Controllers
 │   ├── models/          # Domain models
@@ -55,8 +55,8 @@ contacts-management-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/contacts-management-system.git
-   cd contacts-management-system
+   git clone https://github.com/Nikhildev0904/Contacts-Management-System.git
+   cd Contacts-Management-System
    ```
 
 2. **Ensure MongoDB is running**
